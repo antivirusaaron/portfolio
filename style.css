@@ -215,7 +215,7 @@ p {
 	opacity: .7;
 	z-index: -1;
 }
-#main.hero {
+#main.main {
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 0 50px;
